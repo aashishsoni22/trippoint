@@ -1,0 +1,23 @@
+.theme img{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    padding: auto;
+    display: block;
+}
+.aboutstyle{
+    
+    width: fit-content;
+    margin: 30px auto;
+    padding: 50px;
+    background-color: darkgoldenrod;
+    font-size: 20px;
+    font-weight: 700;
+    font-style: oblique;
+    font-family: monospace;
+    border-radius: 100px;
+}
+:hover.aboutstyle {
+    background-color: pink;
+    transition-duration: 2s;
+}
